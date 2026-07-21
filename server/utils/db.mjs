@@ -4,7 +4,7 @@ const { Pool } = pg.default;
 
 const connectionPool = new Pool({
   connectionString:
-    "postgresql://postgres:Jamesvg6661@localhost:5432/build_api_assignment",
+    "postgresql://postgres:NtUhxh8bL6S!HuT@localhost:5432/build_api_assignment",
 });
 
 export default connectionPool;
